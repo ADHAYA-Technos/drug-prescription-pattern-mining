@@ -12,8 +12,7 @@ Key goals include:
 - Implementing and comparing frequent pattern mining algorithms: ECLAT, PyECLAT, FP-Growth, and Apriori.
 - Deploying user-friendly web interfaces for doctors and pharmacists using Streamlit to facilitate data-driven decision-making.
 
-The full project report is available in [ML_Mini_Project.pdf](ML_Mini_Project.pdf).
-
+ 
 ## Features
 
 - **Data Preprocessing**: Transaction filtering (2-10 items per transaction), duplicate removal, missing value handling, and feature engineering using techniques like MultiLabelBinarizer for binary matrix encoding.
